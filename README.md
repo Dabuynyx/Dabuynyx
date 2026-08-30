@@ -1,89 +1,151 @@
-# Hi there, I'm Adnan Al Hmoud 👋
+# Hi there, I'm Adnan A 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity_Student-0077B5?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Cybersecurity Student">
-  <img src="https://img.shields.io/badge/CCT_Trained-EC--Council-00A9E0?style=for-the-badge" alt="CCT Trained">
-  <img src="https://img.shields.io/badge/Blue_Team-1E90FF?style=for-the-badge&logo=shield&logoColor=white" alt="Blue Team">
-  <img src="https://img.shields.io/badge/GRC_%26_Risk-6A5ACD?style=for-the-badge&logo=checkmarx&logoColor=white" alt="GRC and Risk">
+  <img src="https://img.shields.io/badge/Cybersecurity_Student-0077B5?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CCT_Trained-EC--Council-00A9E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Blue_Team-1E90FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GRC_&_Risk-4B5563?style=for-the-badge">
 </p>
 
-I'm a **Cybersecurity Bachelor's Student** at **Princess Sumaya University for Technology (PSUT)** with a strong interest in **Security Operations, Threat Detection, Incident Response, Network Security, and Governance, Risk, and Compliance (GRC)**.
+I'm a **Cybersecurity Bachelor's Student at Princess Sumaya University for Technology (PSUT)** with a strong interest in **Security Operations, threat detection, incident response, network security, and Governance, Risk, and Compliance (GRC)**.
 
-My primary focus is on defensive security (**Blue Team**), security monitoring, log analysis, Python automation, and practical cybersecurity projects. I enjoy building and analyzing systems to better understand security threats, access controls, vulnerabilities, and real-world defensive practices.
-
-I am continuously developing my technical and governance knowledge through hands-on labs, structured cybersecurity training, practical projects, and security-focused environments.
+My focus is on developing practical cybersecurity skills through hands-on projects, security labs, structured training, and continuous learning.
 
 ---
 
-### 🔑 My Key Projects
+## 🔑 Featured Projects
 
-These repositories represent practical evidence of my technical, security, and problem-solving skills.
+These projects represent practical work across **security-focused software development, log analysis, secure coding, access control, and defensive security**.
 
-#### 1. 🛡️ SecureLog Analyzer (Python)
-[View Repository](https://github.com/Zaxionyx/SecureLog)
+### 1. 🏢 [QAMRA Fit Life – Secure Cafeteria Management System](https://github.com/Zaxionyx/QAMRA)
 
-A Python-based security project designed to automate the parsing and analysis of server logs, including identifying suspicious activity, potential indicators of compromise (IOCs), and brute-force attempts.
+A web-based cafeteria management system designed and implemented with a focus on **authentication, role-based access control, privileged account management, account lifecycle controls, and secure database operations**.
 
-**Status:** 🚧 ONGOING
+The project separates customer-facing functionality from administrative operations and implements three privilege levels: **Customer, Admin, and Root**.
 
-**Skills Demonstrated:** Python, Log Analysis, Regex, SIEM Concepts, Threat Detection, Blue Team Operations, Security Event Analysis, Data Structures.
+**Security Features Demonstrated:**
+- Session-based authentication using PHP
+- Secure password hashing and verification with `password_hash()` and `password_verify()`
+- Role-Based Access Control (RBAC)
+- Customer, Admin, and Root privilege separation
+- Privileged action reauthentication
+- Account lifecycle controls including Active, Banned, and Frozen states
+- Restrictions preventing privilege escalation by standard administrators
+- PDO prepared statements for database operations
+- Database transactions and `FOR UPDATE` row locking for sensitive operations
+- Output encoding with `htmlspecialchars()`
+- File upload MIME-type allowlisting and randomized filenames
+- Audit logging for financial balance adjustments
+- Security documentation covering implemented controls and known limitations
 
----
+**GRC Concepts Demonstrated:**
+- Role-Based Access Control (RBAC)
+- Least Privilege
+- Privileged Access Management (PAM) concepts
+- Account Lifecycle Management
+- Authentication and Access Governance
+- Partial Auditability and Audit Logging
+- Segregation of Duties concepts
+- Risk identification and documentation of security limitations
 
-#### 2. 🍽️ QAMRA Fit Life (PHP / MySQL)
-[View Repository](https://github.com/Zaxionyx/QAMRA)
-
-A web-based cafeteria management system developed as a practical real-world project. The application includes a public customer interface and a separate administrative dashboard for managing inventory, billing, orders, and member accounts.
-
-The project implements practical security concepts including session-based authentication, **Role-Based Access Control (RBAC)**, privileged account restrictions, account lifecycle controls, secure password hashing, PDO prepared statements, database transactions, row locking, input validation, and file upload controls.
-
-The repository also documents implemented security controls, known limitations, and areas for future security hardening.
-
-**Skills Demonstrated:** PHP, MySQL, PDO, Web Application Security, RBAC, Authentication, Authorization, Access Control, Secure Password Handling, Input Validation, Database Security, Privileged Access Controls, Security Documentation.
-
----
-
-### 🎯 Security & GRC Interests
-
-I am particularly interested in the following areas:
-
-- 🛡️ Security Operations Center (SOC) Operations
-- 🔍 Threat Detection and Security Monitoring
-- 📊 SIEM Concepts and Log Analysis
-- 🚨 Incident Response and Security Event Analysis
-- 🌐 Network Security
-- 🐧 Windows and Linux Security
-- 🔐 Identity and Access Management (IAM)
-- 👥 Role-Based Access Control (RBAC)
-- ⚠️ Vulnerability Management
-- 📋 Governance, Risk, and Compliance (GRC)
-- 📈 Risk Assessment and Risk Management
-- 🏛️ ISO 27001 and Information Security Management Systems (ISMS)
-- 📝 Security Controls, Documentation, and Compliance
+**Skills Demonstrated:** PHP, MySQL, Authentication, Authorization, RBAC, Access Control, Secure Coding, Database Security, Input Validation, File Upload Security, Audit Logging, GRC Concepts, Risk Awareness.
 
 ---
 
-### 🛠️ Technical Skills & Toolkit
+### 2. 🛡️ [SecureLog Analyzer](https://github.com/Zaxionyx/SecureLog)
+
+A Python-based security tool designed to automate the parsing and analysis of server log files for suspicious activity.
+
+The project focuses on identifying potential **Indicators of Compromise (IOCs), brute-force attempts, suspicious patterns, and security-relevant events**, applying principles commonly associated with **SIEM analysis and Security Operations**.
+
+**Skills Demonstrated:** Python, Log Analysis, Regex, SIEM Concepts, Threat Detection, IOC Analysis, Blue Team Operations, Data Analysis.
+
+---
+
+### 3. 🔐 [Python Password Manager](https://github.com/Zaxionyx/Password-Manager)
+
+A secure local password manager developed in Python with a focus on **secure software development and cryptographic protection of sensitive information**.
+
+The project applies security principles around protecting credentials and handling sensitive data.
+
+**Skills Demonstrated:** Python, Secure Software Development, Cryptography, Secure Data Handling.
+
+---
+
+## 🛡️ Cybersecurity Focus
+
+My primary areas of interest include:
+
+**Security Operations (SOC)** • **SIEM & Log Analysis** • **Threat Detection** • **Incident Response** • **Blue Team Operations** • **Network Security** • **Vulnerability Management** • **Windows & Linux Security** • **GRC** • **Risk Management** • **Information Security Management**
+
+I am particularly interested in understanding both the **technical side of cybersecurity** and the **governance and risk side**, including how security controls, policies, access management, risk assessment, and compliance requirements work together.
+
+---
+
+## 📋 Governance, Risk & Compliance
+
+Alongside my technical cybersecurity development, I have built knowledge in:
+
+- ISO 27001 concepts
+- Information Security Management Systems (ISMS)
+- Risk assessment and risk management
+- Security controls
+- Governance and compliance concepts
+- Vulnerability management
+- Access control and identity governance concepts
+- Privileged access concepts
+- Auditability and security documentation
+
+I am interested in applying this knowledge alongside technical security operations to better understand how organizations manage cybersecurity risk.
+
+---
+
+## 🛠️ Technical Skills & Toolkit
+
+### Security Operations & Analysis
+
+- SIEM Concepts
+- Log Analysis
+- Threat Detection
+- IOC Analysis
+- Incident Response Concepts
+- Vulnerability Assessment
+- Security Event Analysis
+
+### Security & Networking
+
+- Network Security
+- Windows Security
+- Linux Security
+- Access Control
+- Authentication & Authorization
+- Secure Configuration Concepts
+- Vulnerability Management
+
+### Governance & Risk
+
+- GRC Concepts
+- ISO 27001 Concepts
+- Risk Assessment
+- Risk Management
+- ISMS Concepts
+- Security Controls
+- Compliance Awareness
+- Security Documentation
+
+### Programming & Development
+
+- Python
+- PHP
+- MySQL
+- Regular Expressions
+- Secure Coding Principles
+- Database Security
+- Git & GitHub
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
-  </a>
-  <a href="https://www.splunk.com/" target="_blank">
-    <img alt="SIEM Analysis" src="https://img.shields.io/badge/SIEM_Analysis-000000?style=for-the-badge&logo=splunk&logoColor=white">
-  </a>
-  <a href="https://nmap.org/" target="_blank">
-    <img alt="Nmap" src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white">
-  </a>
-  <br>
-  <a href="https://www.linux.org/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </a>
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -91,91 +153,64 @@ I am particularly interested in the following areas:
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+  </a>
+  <br>
+  <a href="https://www.splunk.com/" target="_blank">
+    <img alt="SIEM" src="https://img.shields.io/badge/SIEM_Analysis-000000?style=for-the-badge">
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img alt="Nmap" src="https://img.shields.io/badge/Nmap-E44C30?style=for-the-badge">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  </a>
 </p>
 
-**Technical Foundation:**
+---
 
-- Python Automation
-- Log Analysis and Security Monitoring
-- SIEM Concepts
-- Threat Detection
-- Incident Response Fundamentals
-- Vulnerability Assessment
-- Network Security
-- Windows and Linux Security
-- Secure Coding Principles
-- Web Application Security
-- Authentication and Authorization
-- PHP and MySQL
-- Database Security
-- Git and Version Control
+## 🎓 Training & Practical Development
+
+I have developed my cybersecurity knowledge through a combination of academic study, hands-on labs, structured training, virtual experience programs, and personal projects.
+
+My development includes exposure to cybersecurity and technical training through organizations and programs including:
+
+- EC-Council
+- Google
+- Microsoft
+- Mastercard Virtual Experience Program
+- TryHackMe practical cybersecurity environments
+- SOC-focused learning and hands-on labs
+
+I have also completed the **TryHackMe SOC Level 1 path**, strengthening my understanding of security monitoring, event analysis, defensive security concepts, and SOC-related workflows.
 
 ---
 
-### 📋 Governance, Risk & Compliance
-
-Alongside my technical cybersecurity development, I am building knowledge in **Governance, Risk, and Compliance (GRC)** and information security management.
-
-My areas of interest include:
-
-- ISO 27001 concepts
-- Information Security Management Systems (ISMS)
-- Risk Assessment
-- Risk Treatment and Risk Management
-- Security Control Implementation
-- Vulnerability Management
-- Access Control Governance
-- Security Policies and Procedures
-- Security Documentation
-- Compliance and Control Assessment
-
-I am interested in understanding not only how security threats are detected and responded to, but also how organizations manage security risks, implement controls, document processes, and build effective security governance.
-
----
-
-### 🎓 Training & Practical Development
-
-My cybersecurity development includes hands-on labs, structured training, practical projects, and virtual cybersecurity environments.
-
-Areas I have studied and practiced include:
-
-- Security Operations and SOC concepts
-- SIEM principles
-- Log analysis
-- Incident response
-- Network security
-- Vulnerability assessment
-- Windows and Linux security
-- GRC and risk management
-- ISO 27001 concepts
-- Secure coding
-- Python automation
-
-I have also completed cybersecurity and technical learning experiences through organizations and platforms including **EC-Council, Google, Microsoft, Mastercard, and TryHackMe**.
-
----
-
-### 💼 What I'm Looking For
+## 🎯 Career Interests
 
 I am currently seeking opportunities where I can apply my cybersecurity knowledge, continue developing practical skills, gain real-world experience, and contribute to a security-focused team.
 
-I am particularly interested in opportunities related to:
+**Interested in:**
 
-**SOC Analyst | Junior Security Analyst | Cybersecurity Analyst | Security Operations | Incident Response | GRC | Risk & Compliance | Vulnerability Management | Security Monitoring**
+> SOC Analyst | Junior Security Analyst | Cybersecurity Analyst | Security Operations | Threat Detection | Incident Response | GRC | Risk & Compliance | Vulnerability Management
 
 ---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaxionyx&show_icons=true&theme=gruvbox&rank_icon=github" alt="Adnan Al Hmoud's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zaxionyx&show_icons=true&theme=gruvbox&rank_icon=github" alt="Adnan Al Hmoud's GitHub Stats" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-Feel free to connect with me on LinkedIn.
+Feel free to connect with me professionally.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adnan-al-hmoud/" target="_blank">
