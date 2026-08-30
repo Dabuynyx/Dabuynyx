@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity_Student-0077B5?style=for-the-badge">
   <img src="https://img.shields.io/badge/CCT_Trained-EC--Council-00A9E0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Blue_Team-1E90FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GRC_&_Risk-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GRC_%26_Risk-7B2CBF?style=for-the-badge">
 </p>
 
 I'm a **Cybersecurity Bachelor's Student at Princess Sumaya University for Technology (PSUT)** with a strong interest in **Security Operations, threat detection, incident response, network security, and Governance, Risk, and Compliance (GRC)**.
