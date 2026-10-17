@@ -17,7 +17,7 @@ My focus is on developing practical cybersecurity skills through hands-on projec
 
 These projects represent practical work across **security-focused software development, log analysis, secure coding, access control, and defensive security**.
 
-### 1. 🏢 [QAMRA Fit Life – Secure Cafeteria Management System](https://github.com/Zaxionyx/QAMRA)
+### 1. 🏢 [QAMRA Fit Life – Secure Cafeteria Management System](https://github.com/Dabuynyx/QAMRA)
 
 A web-based cafeteria management system designed and implemented with a focus on **authentication, role-based access control, privileged account management, account lifecycle controls, and secure database operations**.
 
@@ -52,7 +52,7 @@ The project separates customer-facing functionality from administrative operatio
 
 ---
 
-### 2. 🛡️ [SecureLog Analyzer](https://github.com/Zaxionyx/SecureLog)
+### 2. 🛡️ [SecureLog Analyzer](https://github.com/Dabuynyx/SecureLog)
 
 A Python-based security tool designed to automate the parsing and analysis of server log files for suspicious activity.
 
@@ -62,7 +62,7 @@ The project focuses on identifying potential **Indicators of Compromise (IOCs), 
 
 ---
 
-### 3. 🔐 [Python Password Manager](https://github.com/Zaxionyx/Password-Manager)
+### 3. 🔐 [Python Password Manager](https://github.com/Dabuynyx/Password-Manager)
 
 A secure local password manager developed in Python with a focus on **secure software development and cryptographic protection of sensitive information**.
 
@@ -203,7 +203,7 @@ I am currently seeking opportunities where I can apply my cybersecurity knowledg
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zaxionyx&show_icons=true&theme=gruvbox&rank_icon=github" alt="Adnan Al Hmoud's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dabuynyx&show_icons=true&theme=gruvbox&rank_icon=github" alt="Adnan Al Hmoud's GitHub Stats" />
 </p>
 
 ---
