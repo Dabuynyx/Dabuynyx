@@ -3,25 +3,25 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity_Student-PSUT-0077B5?style=for-the-badge&logo=school&logoColor=white">
   <img src="https://img.shields.io/badge/CTF_Player-Competitor-FF5722?style=for-the-badge&logo=flag&logoColor=white">
-  <img src="https://img.shields.io/badge/OSINT_%26_Forensics-Investigation-4CAF50?style=for-the-badge&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Track-OSINT_with_DFIR-4CAF50?style=for-the-badge&logo=target&logoColor=white">
   <img src="https://img.shields.io/badge/Blue_Team_%26_SOC-Defensive-1E90FF?style=for-the-badge&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/CCT_Trained-EC--Council-00A9E0?style=for-the-badge">
 </p>
 
 I'm a **Cybersecurity Bachelor's Student at Princess Sumaya University for Technology (PSUT)** and an active **CTF Player & Competitor**. 
 
-In the CTF and security research world, I focus on unraveling complex puzzles across **Open-Source Intelligence (OSINT)**, **Git & Digital Forensics**, **Cyber Threat Intelligence (CTI)**, and **Defensive Security Operations**. I thrive on digging deep into hidden Git plumbing, unearthing deleted artifacts, tracking state-sponsored threat actors, and extracting actionable intelligence from raw data.
+In the CTF and security research world, my core specialization is **OSINT with DFIR (Digital Forensics & Incident Response)** — solving challenges where open-source reconnaissance directly intersects with deep digital forensics. Rather than treating them as separate fields, I integrate open-source intelligence gathering with forensic artifact analysis: digging into Git plumbing and commit logs, carving deleted files from web snapshots, extracting GPS EXIF metadata, and tracking threat actor campaign infrastructures.
 
 ---
 
 ## 🚩 Featured CTF Write-Ups & Research
 
-### 🏆 [Cyrptix CTF — OSINT & Digital Forensics Write-Ups Collection](https://github.com/Dabuynyx/Cyrptix-CTF-OSINT-write-up)
+### 🏆 [Cyrptix CTF — OSINT with DFIR Write-Ups Collection](https://github.com/Dabuynyx/Cyrptix-CTF-OSINT-write-up)
 > **Event:** Cryptix CTF — Organized by **HTU Cyber Club** in collaboration with **CYS-TECH**  
-> **Track:** OSINT, Git Forensics, Applied Cryptography, Web Archive Forensics, Cyber Threat Intelligence  
+> **Category / Track:** **OSINT with DFIR** (Digital Forensics & Incident Response)  
 > **Status:** 5 / 5 Challenges Solved (100% Clear)
 
-A complete, production-grade repository documenting step-by-step methodologies, reproducible CLI pipelines, custom extraction scripts, visual flowcharts, and primary disclosures:
+A complete, production-grade repository documenting step-by-step methodologies, reproducible CLI pipelines, custom extraction scripts, visual flowcharts, and primary disclosures for the complete **OSINT with DFIR** track:
 
 | Challenge | Focus & Techniques | Solved Flag |
 | :--- | :--- | :--- |
